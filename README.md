@@ -1,14 +1,15 @@
 # 🧠 Real-Time Multi-Agent Voice AI System
 
-A **real-time, multi-agent conversational pipeline** that enables **low-latency, bidirectional audio dialogue** between users and AI agents via **Twilio Voice**, **WebSockets**, and **streaming LLMs**.  
-The system demonstrates how to build **autonomous, speech-driven agents** capable of interacting naturally over phone calls — all in **under 500 ms round-trip latency**.
+Moving to a new home often means calling multiple moving companies, explaining your requirements, and negotiating quotes — a process that’s **time-consuming, repetitive, and inefficient**. 
+
+The **AI Negotiation Agent** automates this by acting as a virtual assistant that **calls or interacts with multiple moving service providers**, negotiates prices, and summarizes outcomes. It intelligently updates its negotiation strategy after each call, learning what works best to help users find the most cost-effective and reliable option — **saving hours of manual effort** while maintaining a professional, consistent approach across all providers.
 
 ---
 
 ## 🚀 Features
 
 - 🎙️ **Real-Time Streaming** — Bidirectional audio handled via WebSockets with sub-500 ms latency.  
-- 🤖 **Multi-Agent Orchestration** — Modular design allows multiple AI agents (e.g., assistant, summarizer, emotion detector) to cooperate in dialogue.  
+- 🤖 **Multi-Agent Orchestration** — Modular design allows multiple AI agents (e.g., chat agent, voice agent) to cooperate in dialogue.  
 - ☁️ **LLM-Powered Reasoning** — Integrates streaming LLMs for dynamic, contextual responses.  
 - ☎️ **Twilio Voice Integration** — Seamlessly connects phone calls to your AI agents.  
 - 🧩 **Server-Client Architecture** — Built with **FastAPI** and **Uvicorn**, supporting scalable asynchronous I/O.  
@@ -122,13 +123,7 @@ This system can power:
 
 ---
 
-## 🪪 Author
 
-**Madhuri [Your Last Name]**  
-💼 *AI Engineer | Applied ML & Conversational Systems*  
-🔗 [LinkedIn](#) • [GitHub](#)
-
----
 
 ## ⭐️ Highlight for Resume
 
