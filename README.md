@@ -17,6 +17,11 @@ The **AI Negotiation Agent** automates this by acting as a virtual assistant tha
 - 🧱 **Modular & Extensible** — Easily plug in different LLMs, voice models, or downstream reasoning agents.  
 
 ---
+## 🧭 Multi-Agent Graph
+
+![Multi-Agent Graph](./imgs/agent_flow.png)
+
+---
 
 ## 🏗️ System Architecture
 
